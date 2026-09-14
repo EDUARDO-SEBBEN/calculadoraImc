@@ -1,4 +1,4 @@
-# ⚖️ Balança IMC
+#  Balança IMC
 
 Projeto desenvolvido em **Java** com o objetivo de calcular o **Índice de Massa Corporal (IMC)** de uma pessoa e apresentar sua classificação de acordo com o resultado obtido.
 
